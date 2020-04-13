@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>调查问卷</title>
+</head>
+
+<body type bgcolor="#22ECF9">
+	<h2>个人喜好调查问卷</h2>
+	<hr size="10" color="#F22A2E">
+	<ol type="1">
+		<li>你更喜欢那种水果（）</li>
+		  <ol type="A">
+			  <li>草莓</li>
+			  <li>香蕉</li>
+			  <li>苹果</li>
+			  <li>西瓜</li>
+		  </ol>
+		<li>你平时休闲经常去的地方是哪里（）</li>
+		  <ol type="A">
+			  <li>郊外</li>
+			  <li>商场</li>
+			  <li>公园</li>
+			  <li>酒吧</li>
+		  </ol>
+		<li>你认为容易吸引你的人是哪类（）</li>
+		  <ol type="A">
+			  <li>有才气的人</li>
+			  <li>依赖你的人</li>
+			  <li>善良的人</li>
+			  <li>优雅的人</li>
+		  </ol>
+		<li>你最想去哪里旅游（）</li>
+		  <ol type="A">
+			  <li>黑龙江</li>
+			  <li>南京</li>
+			  <li>西藏</li>
+			  <li>云南</li>
+		  </ol>
+		<li>你喜欢哪种动物（）</li>
+		  <ol type="A">
+			  <li>猫</li>
+			  <li>狗</li>
+			  <li>猪</li>
+			  <li>候</li>
+		  </ol>
+	</ol>
+	<hr size="10" color="#F22A2E">
+</body>
+</html>
